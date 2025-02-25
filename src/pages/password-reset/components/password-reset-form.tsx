@@ -72,7 +72,7 @@ export function PasswordResetForm({
         className={cn("flex flex-col gap-6", className)}
         {...props}
       >
-        <div className="flex flex-col items-center gap-2 text-center">
+        <div className="flex flex-col items-center gap-2 text-center pb-5">
           <h1 className="text-2xl font-bold">Reset Your Password</h1>
           <p className="text-balance text-sm text-muted-foreground">
             Enter your email below to reset your password

@@ -17,7 +17,7 @@ export default function PasswordResetPage() {
             href="#"
             className="w-[248px] pl-[8.53px] justify-end items-start gap-[25.69px] inline-flex overflow-hidden"
           >
-            <img src="/images/logo.svg" alt="Acme Inc. Logo" />
+            <img src="/images/logo.svg" alt="MachinesTalk Logo" />
           </a>
         </div>
 
