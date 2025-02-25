@@ -148,7 +148,7 @@ export function LoginForm({
               required
             />
             <a
-              href="#"
+              href="/reset"
               className="ml-auto text-sm underline-offset-4 hover:underline text-zinc-500"
             >
               Forgot your password?
