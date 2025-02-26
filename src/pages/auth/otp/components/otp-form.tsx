@@ -1,7 +1,6 @@
 import type React from "react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
-import { Label } from "@/components/ui/label";
 import { type FormEvent, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import {
